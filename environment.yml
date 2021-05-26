@@ -18,3 +18,4 @@ dependencies:
   - mkl
   - fftw
   - mpich
+  - latexmk
