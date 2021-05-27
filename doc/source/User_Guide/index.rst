@@ -21,9 +21,3 @@ Rayleigh User Manual
    examples
 
 
-.. doxygenindex::
-.. doxygenfunction::
-.. doxygenstruct::
-.. doxygenenum::
-.. doxygentypedef::
-.. doxygenclass::

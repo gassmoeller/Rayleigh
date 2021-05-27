@@ -4,7 +4,7 @@ RECURSIVE              = YES
 FILE_PATTERNS          = *.f *.f90 *.F90
 IMAGE_PATH             =
 OUTPUT_DIRECTORY       = ./
-OPTIMIZE_FOR_FORTRAN   = ON
+OPTIMIZE_FOR_FORTRAN   = YES
 
 
 

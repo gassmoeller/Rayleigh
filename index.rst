@@ -21,3 +21,13 @@ Indices and tables
 ------------------
 
 * :ref:`search`
+
+Source Documentation
+--------------------
+
+.. doxygenindex::
+.. doxygenfunction::
+.. doxygenstruct::
+.. doxygenenum::
+.. doxygentypedef::
+.. doxygenclass::
