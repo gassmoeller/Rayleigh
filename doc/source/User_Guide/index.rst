@@ -19,3 +19,11 @@ Rayleigh User Manual
    ensemble_mode
    references
    examples
+
+
+.. doxygenindex::
+.. doxygenfunction::
+.. doxygenstruct::
+.. doxygenenum::
+.. doxygentypedef::
+.. doxygenclass::
