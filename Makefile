@@ -76,6 +76,10 @@ install:
 	@mkdir -p $(PREFIX)/bin
 	@cp $(BUILD)/compiled/rayleigh.* $(PREFIX)/bin/.
 
+.PHONY: doxygen
+doxygen:
+	@cd doc && doxygen options.dox
+
 .PHONY: doc
 doc:
 	@sphinx-build -M html "." "doc/build"
